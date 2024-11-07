@@ -1,4 +1,4 @@
-const userID = "906037896295878706"; // Đặt Discord user ID của bạn vào đây
+const userID = "1169111190824308768"; // Đặt Discord user ID của bạn vào đây
 const statusImage = document.getElementById("status-image");
 
 // Kết nối WebSocket để nhận trạng thái Discord
